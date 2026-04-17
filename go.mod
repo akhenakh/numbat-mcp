@@ -3,7 +3,7 @@ module github.com/akhenakh/numbat-mcp
 go 1.26.1
 
 require (
-	github.com/akhenakh/numbat-cgo v0.0.0-20260417132204-3daf43fe0ac4
+	github.com/akhenakh/numbat-cgo v0.0.0-20260417112204-e534336791c6
 	github.com/mark3labs/mcp-go v0.48.0
 )
 

@@ -1,9 +1,5 @@
-github.com/akhenakh/numbat-cgo v0.0.0-20260417030221-02bb2623c83e h1:driYyONGpgd38UHC7KUxs2+yTb4rtqyAyOFpOLP/Sk4=
-github.com/akhenakh/numbat-cgo v0.0.0-20260417030221-02bb2623c83e/go.mod h1:7AyhpncYc8YxaQja+bQWCRc9zj7pavzg4Inl7xoUpKY=
-github.com/akhenakh/numbat-cgo v0.0.0-20260417034327-aa4afdd482a5 h1:f6ScX1kNOJRzPU4cf3vytoTTC3ZEqHeOgKp4pdOL8KU=
-github.com/akhenakh/numbat-cgo v0.0.0-20260417034327-aa4afdd482a5/go.mod h1:7AyhpncYc8YxaQja+bQWCRc9zj7pavzg4Inl7xoUpKY=
-github.com/akhenakh/numbat-cgo v0.0.0-20260417132204-3daf43fe0ac4 h1:25YfyWDN3k83bQMccGIQVvptSqXjEYeGpnLsA4ErwNI=
-github.com/akhenakh/numbat-cgo v0.0.0-20260417132204-3daf43fe0ac4/go.mod h1:7AyhpncYc8YxaQja+bQWCRc9zj7pavzg4Inl7xoUpKY=
+github.com/akhenakh/numbat-cgo v0.0.0-20260417112204-e534336791c6 h1:52Dp6tyZfRrkXSllmUYv4MhwOjq5b9Cc0/MCHWGfT+M=
+github.com/akhenakh/numbat-cgo v0.0.0-20260417112204-e534336791c6/go.mod h1:7AyhpncYc8YxaQja+bQWCRc9zj7pavzg4Inl7xoUpKY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/frankban/quicktest v1.14.6 h1:7Xjx+VpznH+oBnejlPUj8oUpdxnVs4f8XU8WnHkI4W8=
